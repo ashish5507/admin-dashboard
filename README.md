@@ -9,7 +9,7 @@ This project focuses on mastering **CSS Grid**, layout structuring, and modern U
 
 ## Preview
 
-![Admin Dashboard Preview](./images/preview.png)
+![Admin Dashboard Preview](./images/output.png)
 
 > Dashboard layout with sidebar navigation, header actions, main content cards, and a right sidebar for announcements and trending users.
 
@@ -51,4 +51,18 @@ No JavaScript or external libraries were used.
 - Using `box-shadow` correctly for elevation
 - Structuring semantic HTML for dashboards
 
+ ---
 
+## live demo 
+- https://ashish5507.github.io/admin-dashboard/
+
+---
+
+## This project was built for the following Odin Project lesson:
+- https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard
+
+---
+
+## Author
+- Ashish Joshi 
+- ashish5507 (github)
